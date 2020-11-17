@@ -1,0 +1,11 @@
+{
+  "name": "node-csv",
+  "version": "1.0.0",
+  "description": "This is an example for node-csv from farcrew razi.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

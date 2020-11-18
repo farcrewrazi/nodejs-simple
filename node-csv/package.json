@@ -1,12 +1,12 @@
 {
   "name": "node-csv",
   "version": "1.0.0",
-  "description": "This is an example for node-csv from farcrew razi.",
+  "description": "This is an example for node-csv by farcrew razi.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "Farcrew Razi",
   "license": "ISC",
   "dependencies": {
     "neat-csv": "^5.2.0"

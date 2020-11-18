@@ -1,5 +1,4 @@
 const fs = require('fs')
-const path = require('path')
 const neatCSV = require('neat-csv')
 
 const fileReadPath = './csv_files/file_to_read.csv'

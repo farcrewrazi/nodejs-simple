@@ -7,5 +7,8 @@
     "start": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "neat-csv": "^5.2.0"
+  }
 }

@@ -7,5 +7,9 @@
     "start": "node index.js"
   },
   "author": "Farcrew Razi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "neat-csv": "^5.2.0"
+  }
 }

@@ -1,0 +1,11 @@
+{
+  "name": "node-async",
+  "version": "1.0.0",
+  "description": "Node Async example by Farcrew Razi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Farcrew Razi",
+  "license": "ISC"
+}
